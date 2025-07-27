@@ -1,7 +1,7 @@
 
-# Radiant ai
+## Radiant Ai
 
-# Radiant ai
+# Radiant Ai
 Radiant AI is a revolutionary new social network that enables creators, brands and universities to:
 * **Train** AI agents, avatars and forums with private data sources (**Filecoin** & RAG)
 * **Monetise** AI communities and assets via micropayments and digital asset marketplace (**Solana**)
